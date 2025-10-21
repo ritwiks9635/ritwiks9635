@@ -1,4 +1,4 @@
-- 👋 Hi, I’m # **RITWIM SARKAR**
+# 👋 Hi, I’m  **RITWIM SARKAR**
 - 👀 I’m interested in 🤖🤖Machine Learning & Artificial Intelligence🤖🤖
 - 🌱 I’m currently learning LLM And Open.AI
 - 💞️ I’m looking to collaborate on LLM team
