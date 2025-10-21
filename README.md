@@ -1,96 +1,94 @@
+<!-- Header / Hero -->
 <div align="center">
+  <a href="https://github.com/ritwiks9635">
+    <img src="https://raw.githubusercontent.com/MicaelliCoder/MicaelliCoder/main/Assets/header.gif" alt="Hyper-Focus Animated Header" width="100%" />
+  </a>
 
-<a href="https://github.com/ritwiks9635">
-  <img src="https://raw.githubusercontent.com/MicaelliCoder/MicaelliCoder/main/Assets/header.gif" alt="Hyper-Focus Animated Header" width="100%" />
-</a>
+  <h1 align="center">⚡ Ritwik Sarkar — Deep Architect</h1>
+  <p align="center"><strong>Secure Generative AI · Agentic Systems · Decentralized ML · Real-time Vision</strong></p>
 
-# **⚡ RITWIK SARKAR**
-## **DEEP ARCHITECT | SECURE GENERATIVE AI & DECENTRALIZED SYSTEMS**
-
+  <!-- Contact / Quick links -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ritwik-sarkar-ml-ai"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:ritwiks9635@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.github.com/ritwiks9635"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  </p>
 </div>
 
 ---
 
-<div align="center">
-
-## **⭓ THE ARCHITECTURAL MANDATE**
-
-> My mission is to engineer the next generation of **Trustworthy AI**. I specialize in building **secure, autonomous, and production-ready** Deep Learning systems. From designing **Federated Fine-tuning** pipelines for privacy, to deploying **Agentic LLMs** for workflow automation, I bridge complex research with scalable, high-performance architecture.
-
-</div>
+## 🧭 Quick Pitch
+I design and deploy **trustworthy, production-ready AI** — specializing in secure/federated model workflows, agentic LLM systems, and real-time computer vision. I turn research-level ideas into deployable systems that respect data privacy and scale to production.
 
 ---
 
-<div align="center">
-
-## **⚙️ DEEP TECH STACK: PLATFORMS & FRAMEWORKS**
-
-| **FRONTIER DOMAIN** | **SPECIALIZATION** | **KEY TECHNOLOGIES** |
-| :---: | :---: | :---: |
-| **Decentralized AI** | **Privacy-Preserving & Edge ML** | ![Flower](https://img.shields.io/badge/Flower%20Labs-F92C85?style=for-the-badge&logo=github&logoColor=white) ![PEFT](https://img.shields.io/badge/PEFT-3772FF?style=for-the-badge&logo=huggingface&logoColor=white) ![LLAMA](https://img.shields.io/badge/LLAMA-3D0D56?style=for-the-badge&logo=facebook&logoColor=white) |
-| **Generative AI** | **LLM Agents & RAG Architecture** | ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=langchain&logoColor=brightgreen) ![Pydantic](https://img.shields.io/badge/Pydantic%20AI-000000?style=for-the-badge&logo=python&logoColor=orange) |
-| **Core Frameworks** | **Deep Learning & Computer Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **MLOps/Infra**| **Cloud Deployment & REST APIs** | ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
-
-</div>
+## 🛠️ Core Expertise
+- **Generative AI & LLMs:** Agentic pipelines, RAG, prompt engineering, Gemini, LangChain, Pydantic AI  
+- **Distributed & Privacy-preserving ML:** Federated learning (Flower), PEFT for LLMs  
+- **Computer Vision:** YOLOv8 / real-time segmentation, multi-modal fusion (ResNet + BERT)  
+- **MLOps & Deployment:** Docker, FastAPI, GCP, scalable inference pipelines  
+- **Tooling:** PyTorch, TensorFlow, Hugging Face, Pinecone / FAISS, LangGraph, Streamlit
 
 ---
 
-<div align="left">
+## 🔭 Highlighted Projects (from this profile)
+> Selected for technical depth, research-to-production focus, and real-world impact.
 
-## **🚀 THE PROJECT VAULT: EXTREME AI SPECIALIZATION**
+1. **Federated Fine-tuning of LLMs with Private Data**  
+   *A secure federated pipeline using Flower + PEFT (Llama2) to collaboratively fine-tune LLMs while preserving client data privacy.*  
+   Repo: `ritwiks9635/Federated-Fine-tuning-of-LLMs-with-Private-Data`. :contentReference[oaicite:2]{index=2}
 
-The following projects showcase my ability to execute on complex, research-level architectures and deliver high-impact production systems.
+2. **Building_Multimodal_Search_and_RAG**  
+   *Jupyter-based RAG + multimodal retrieval experiments for search and recommendation.* :contentReference[oaicite:3]{index=3}
 
-### **1. 🔐 Federated Fine-tuning of LLMs with Private Data**
-***[GitHub Repository: ritwiks9635/Federated-Fine-tuning-of-LLMs-with-Private-Data](https://github.com/ritwiks9635/Federated-Fine-tuning-of-LLMs-with-Private-Data)***
+3. **PathHole Segmentation (YOLOv8)**  
+   *Real-time pothole segmentation with fast inference — tuned for noisy video streams and small-target detection.* (details in repo & resume). :contentReference[oaicite:4]{index=4}
 
-The cornerstone of my work—a solution for data governance and privacy at the scale of Large Language Models.
+4. **Real-Time MCQ Generator (Gemini + LangChain)**  
+   *Adaptive question generation pipeline for exam prep (JEE/NEET) with Pinecone vector store.* :contentReference[oaicite:5]{index=5}
 
-* **Architectural Challenge:** Fine-tuning specialized LLMs requires sensitive, proprietary client data which cannot be centrally stored or shared due to privacy mandates.
-* **Solution Deployed:** Implemented an end-to-end **Federated Learning** pipeline using the **Flower framework** to aggregate model updates from distributed clients. This was combined with **Parameter-Efficient Fine-Tuning (PEFT)** on **Llama2** models for resource optimization.
-* **Impact:** A secure, distributed system that enables collaborative model improvement without ever compromising raw client data, a critical technology for enterprise AI adoption.
-
-### **2. 🤖 Autonomous & Generative Systems**
-
-* **LLM Based Question Generation Engine:** Developed a generative system using **Gemini LLM** via **LangChain** and enforced high-fidelity, structured output using **Pydantic AI**. The agent dynamically creates complex, semantically-relevant Question-Option pairs for adaptive educational testing.
-* **Multi-Modal Product Tagging Engine:** Engineered a robust dual-encoder architecture for e-commerce. It uses a **ResNet** backbone for image features and a **BERT** stream for textual metadata. This fusion approach significantly improved metadata accuracy, boosting SEO and product discoverability across the catalog.
-
-### **3. 👁️ Computer Vision & Real-Time Intelligence**
-
-* **Real-Time Pothole Segmentation:** Deployed a high-speed road infrastructure analysis model. Used **YOLOv8** to achieve reliable, real-time segmentation of road damage, achieving **93% detection accuracy** for instant inference on streamed video data.
-
-</div>
+> For a full list of repos, check the repository grid on my profile. :contentReference[oaicite:6]{index=6}
 
 ---
 
-<div align="center">
+## 📈 Dynamic Stats (live)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritwiks9635&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwiks9635&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%"/>
+</p>
 
-## **📊 THE DYNAMIC AI FOOTPRINT**
-
-*Monitoring contribution velocity and language distribution across the ecosystem.*
-
-<img src="https://github-readme-stats.vercel.app/api?username=ritwiks9635&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" alt="Ritwik Sarkar's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwiks9635&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Ritwik Sarkar's Top Languages" width="48%" />
-
-<br>
-
-### **🔥 Development Momentum**
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritwiks9635&theme=tokyonight&hide_border=true" alt="Ritwik Sarkar GitHub Streak" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritwiks9635&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
 
 ---
 
-<div align="center">
+## 🧩 How I work
+- **Data-first:** Robust preprocessing & validation (Pydantic AI, PDFPlumber)  
+- **Modular agents:** Node-based agent orchestration (LangGraph) for safety & observability  
+- **Performance-aware:** Lightweight fine-tuning (PEFT) and inference optimizations for edge/cloud  
+- **Production-ready:** Containerized services (Docker + FastAPI), monitoring and CI-friendly deployments
 
-## **🔗 ENGAGE THE ARCHITECT**
+---
 
-*Seeking collaboration on projects that push the boundaries of secure, decentralized, and intelligent systems.*
+## 🎯 Looking to collaborate on
+- Privacy-first enterprise LLMs and Federated AI solutions  
+- Agentic systems that automate complex workflows with human-in-the-loop safety  
+- Scalable, low-latency CV pipelines for real-time analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritwik-sarkar-ml-ai)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritwiks9635@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/ritwiks9635)
+---
 
-</div>
+## 📂 Quick links
+- GitHub: https://github.com/ritwiks9635  
+- Resume (highlights used to craft this README): *Ritwik Sarkar 2025* (experience & projects). :contentReference[oaicite:7]{index=7}
+
+---
+
+## 🚀 Want to work together?
+I’m open to freelance, research collaborations, and production roles that push privacy-preserving generative AI. Ping me on LinkedIn or email — links above.
+
+---
+
+<footer align="center">
+  <sub>Built with ⚡ and a focus on secure, scalable AI systems — © 2025 Ritwik Sarkar</sub>
+</footer>
