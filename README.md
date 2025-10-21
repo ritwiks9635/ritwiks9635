@@ -7,19 +7,17 @@
 # **⚡ RITWIK SARKAR**
 ## **Cognitive AI Engineer | Generative Models & Production-Ready Systems**
 
-<br>
-
 </div>
 
 ---
 
 <div align="center">
 
-## **🎯 Mission Statement**
+## **🎯 AI Focus: From Research to Production**
 
-> **8 months experience** building and deploying advanced **Machine Learning** models. I specialize in leveraging **Large Language Models (LLMs)**, **RAG Architectures**, and **Computer Vision** to develop highly performant, scalable, and intelligent software solutions for real-world problems.
+> With **8 months of dedicated experience**, I specialize in transforming cutting-edge **Deep Learning** and **Generative AI** models into robust, scalable production systems. My core strength lies at the intersection of **LLM/RAG Architectures** and **Multi-Modal Computer Vision**.
 >
-> **Looking to collaborate on Agentic AI and Full-Stack MLOps projects.**
+> **Looking to collaborate on Agentic AI and Full-Stack MLOps challenges.**
 
 </div>
 
@@ -27,50 +25,35 @@
 
 <div align="center">
 
-## **🧠 Generative AI & Deep Tech Focus**
+## **⚙️ The Cognitive Tech Matrix**
 
-| Domain | Core Expertise | Key Tooling |
-| :--- | :--- | :--- |
-| **Generative AI** | LLM Integration, RAG Pipeline Design, Agentic AI | **Gemini, OpenAI, LangChain, Llama, Pydantic AI** |
-| **Computer Vision**| Dual-Encoder Architectures, Object Recognition, Feature Fusion | **OpenCV, ResNet, BERT** |
-| **Deployment** | Scalable RESTful APIs, Containerization | **GCP, Docker, FastAPI, Streamlit** |
-| **Data & Vector Search** | Embeddings, Data Preprocessing, Vector Databases | **Pinecone, FAISS, SQL** |
-
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=langchain&logoColor=brightgreen)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-131313?style=for-the-badge&logo=google&logoColor=teal)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+| Focus Area | Primary Expertise | Frameworks & Tools |
+| :---: | :---: | :---: |
+| **Generative AI** | **LLM Integration & Fine-Tuning** | ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=langchain&logoColor=brightgreen) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) |
+| **Deep Learning** | **Computer Vision & NLP** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
+| **MLOps/Deployment**| **Containerization & Cloud Services** | ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
+| **Data & Vector DBs** | **RAG Pipelines & Data Processing** | ![Pinecone](https://img.shields.io/badge/Pinecone-0C344B?style=for-the-badge&logo=pinecone&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-FF6F00?style=for-the-badge&logo=facebook&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 
-## **🔬 Featured Systems & Projects**
+## **🌐 Featured Systems & Project Deep Dive**
 
 ### **1. LLM Based Question Generation Engine**
-<p>
-  A generative system designed for educational platforms (JEE/NEET preparation). It utilizes the **Gemini LLM** via **LangChain** to dynamically generate high-quality, semantically relevant **question and option pairs** from text. This project demonstrates expertise in prompt engineering and LLM-driven content creation.
-</p>
-<img src="https://img.shields.io/badge/Gemini%20LLM-008060?style=for-the-badge&logo=google&logoColor=white" alt="Gemini Badge">
-<img src="https://img.shields.io/badge/LangChain-FF9933?style=for-the-badge&logo=LangChain&logoColor=white" alt="LangChain Badge">
-<img src="https://img.shields.io/badge/NLP-00BFFF?style=for-the-badge&logo=NLP&logoColor=white" alt="NLP Badge">
-<br>
-<br>
+- **Goal:** Automate content creation for educational platforms (JEE/NEET).
+- **Architecture:** Leveraged **Gemini LLM** via **LangChain** and **Pydantic AI** for structured output generation.
+- **Impact:** Dynamically generates high-quality, semantically relevant **Question-Option pairs** from raw text, enabling adaptive learning features.
 
 ### **2. Multi-Modal Product Tagging Engine**
-<p>
-  Developed a **hybrid dual-encoder model** to automate product metadata tagging for an e-commerce catalog. The system fused features from two sources: **ResNet** (for image analysis) and **BERT** (for textual product description) to predict accurate hierarchical tags (category, color, style), drastically improving **SEO and product discoverability**.
-</p>
-<img src="https://img.shields.io/badge/Computer%20Vision-9400D3?style=for-the-badge&logo=Computer%20Vision&logoColor=white" alt="CV Badge">
-<img src="https://img.shields.io/badge/ResNet/BERT-FF4500?style=for-the-badge&logo=BERT&logoColor=white" alt="BERT Badge">
-<img src="https://img.shields.io/badge/Multi--Modal%20AI-00FF7F?style=for-the-badge&logo=AI&logoColor=white" alt="Multi-Modal AI Badge">
+- **Goal:** Improve e-commerce product discoverability and SEO tagging accuracy.
+- **Architecture:** Developed a **Hybrid Dual-Encoder** model combining visual and textual data.
+    - **Visual Encoder:** **ResNet** for extracting image features.
+    - **Textual Encoder:** **BERT** for processing product descriptions.
+- **Impact:** Fusion layers predict accurate hierarchical tags (category, color, style), significantly boosting metadata quality across the catalog.
+
 
 </div>
 
@@ -78,21 +61,31 @@
 
 <div align="center">
 
-## **📈 Development Metrics**
+## **📊 Dynamic AI Dashboard**
 
-<img src="https://github-readme-stats.vercel.app/api?username=ritwiks9635&show_icons=true&theme=dark&rank_icon=github&hide_border=true&count_private=true" alt="Ritwik Sarkar's GitHub Stats" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwiks9635&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Ritwik Sarkar's Top Languages" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ritwiks9635&show_icons=true&theme=gotham&rank_icon=github&hide_border=true&count_private=true" alt="Ritwik Sarkar's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwiks9635&layout=compact&theme=gotham&hide_border=true&langs_count=6" alt="Ritwik Sarkar's Top Languages" width="48%" />
 
 <br>
 
-## **🔗 Connect with Me**
+### **🔥 My Development Streak**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritwik-sarkar-ml-ai)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritwiks9635@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/ritwiks9635)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritwiks9635&theme=gotham&hide_border=true" alt="Ritwik Sarkar GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+## **🔗 Connect & Collaborate**
+
+- **Email:** `ritwiks9635@gmail.com`
+- **LinkedIn:** [Ritwik Sarkar (ML/AI)](https://www.linkedin.com/in/ritwik-sarkar-ml-ai)
+- **GitHub:** [ritwiks9635](https://www.github.com/ritwiks9635)
 
 <p align="center">
-  *Ready to build the future of AI. Let's connect and innovate.*
+  *Committed to building intelligent software that defines the future.*
 </p>
 
 </div>
